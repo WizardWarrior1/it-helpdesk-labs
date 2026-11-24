@@ -1,0 +1,24 @@
+TICKET ID: HD-001
+Type: Simulated Help Desk Lab
+Category: Software / Windows Diagnostics
+Priority: Low
+Status: Resolved (Lab)
+
+Issue Description:
+Verify that the Windows Optimization Toolkit launches and performs basic Windows diagnostics without administrator privileges.
+
+Troubleshooting Steps:
+1. Reviewed the PowerShell script for potentially destructive commands.
+2. Opened Windows PowerShell as a standard user.
+3. Navigated to the Downloads folder.
+4. Launched WindowsToolkit.ps1.
+5. Tested diagnostic functionality and checked for errors.
+
+Resolution:
+Toolkit launched successfully. User reported that tested functions worked correctly without errors.
+
+Verification:
+Menu launch confirmed by screenshot. Individual diagnostic outputs were not independently verified.
+
+Technician Notes:
+This is a simulated support ticket based on a personal lab, not a real customer incident.

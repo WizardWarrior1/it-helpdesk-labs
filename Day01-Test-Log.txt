@@ -1,0 +1,19 @@
+IT HELP DESK LAB — DAY 1
+
+Topic: Windows System Diagnostics
+
+Objective: Test my Windows Optimization Toolkit and document troubleshooting results.
+
+TEST 1 — WINDOWS OPTIMIZATION TOOLKIT
+
+Date: November 16, 2026
+
+Test Environment: Windows PowerShell (Standard User)
+
+Test Performed: Executed WindowsToolkit.ps1 and tested diagnostic functionality.
+
+Result: PASS
+
+Observations: Toolkit launched successfully. All tested functions appeared to work correctly. No errors reported during testing.
+
+Next Step: Create a simulated Help Desk support ticket documenting the test.
